@@ -32,12 +32,12 @@
 
 ## Input:
 
-![image](https://github.com/shadhanashree22/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231910/f392d611-b922-4a41-b61d-c65ee7336bd1)
+![image](https://github.com/shadhanashree22/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231910/c1dbfd38-d669-46b9-87ff-71d3f22314e9)
 
 
 ### Output:
 
-![image](https://github.com/shadhanashree22/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231910/7960c611-3ad3-43c7-98fa-d666fb1b93be)
+![image](https://github.com/shadhanashree22/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150231910/ae7fd872-ba6e-4387-9c4f-ad87fa45f8d9)
 
 
 
